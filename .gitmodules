@@ -1,0 +1,3 @@
+[submodule "shared-sub"]
+	path = shared-sub
+	url = https://github.com/camilo-barraza/shared-sub.git
